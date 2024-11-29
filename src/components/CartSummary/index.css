@@ -1,0 +1,18 @@
+/* Write your CSS here */
+summary-container {
+  width: 100%;
+  border: 1px solid grey;
+
+  font-family: Roboto;
+}
+.checkout-button {
+  background-color: rgb(23, 23, 255);
+  color: white;
+  font-size: 12px;
+}
+.total-price {
+  font-size: 20px;
+  color: rgb(79, 79, 79);
+  font-family: Roboto;
+  font-weight: 500;
+}
